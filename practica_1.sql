@@ -2,7 +2,8 @@
 --BASE DE DATOS "EUREKABANC"
 
 select * from CargoMantenimiento cm 
-s
+
+
 elect * from Cliente c 
 
 select * from Movimiento m 
@@ -35,5 +36,10 @@ where m.chr_monecodigo = c.chr_monecodigo
 group by m.vch_monedescripcion 
 
 SELECT * from Asignado a  
+
+select * from Modulo m 
+
+select * from Parametro p 
+
 
 
