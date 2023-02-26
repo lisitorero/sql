@@ -41,5 +41,5 @@ select * from Modulo m
 
 select * from Parametro p 
 
-
+--- consultas
 
